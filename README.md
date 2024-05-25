@@ -1,4 +1,8 @@
-const tasia = {
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome to my page! I'm Tania 
+
+```javascript
+const tania = {
 
   student: {
                 university: "Wroclaw University of Applied Informatics",
@@ -11,3 +15,4 @@ const tasia = {
                 life: "happy"
                 }
 }  
+```
